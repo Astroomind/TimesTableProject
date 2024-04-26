@@ -1,0 +1,7 @@
+C:\Users\aaron\OneDrive\Desktop\C# Projects\BloggieMVC\TimesTable Project\TimesTable Project\bin\Debug\TimesTable Project.exe.config
+C:\Users\aaron\OneDrive\Desktop\C# Projects\BloggieMVC\TimesTable Project\TimesTable Project\bin\Debug\TimesTable Project.exe
+C:\Users\aaron\OneDrive\Desktop\C# Projects\BloggieMVC\TimesTable Project\TimesTable Project\bin\Debug\TimesTable Project.pdb
+C:\Users\aaron\OneDrive\Desktop\C# Projects\BloggieMVC\TimesTable Project\TimesTable Project\obj\Debug\TimesTable Project.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Desktop\C# Projects\BloggieMVC\TimesTable Project\TimesTable Project\obj\Debug\TimesTable Project.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\C# Projects\BloggieMVC\TimesTable Project\TimesTable Project\obj\Debug\TimesTable Project.exe
+C:\Users\aaron\OneDrive\Desktop\C# Projects\BloggieMVC\TimesTable Project\TimesTable Project\obj\Debug\TimesTable Project.pdb
